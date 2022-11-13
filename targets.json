@@ -1,0 +1,9 @@
+{
+  "replaceTargets": [
+      {
+        "target": "https://acsenou.upb.ro",
+        "with": "https://acse.pub.ro",
+        "regex": "false"
+      }
+  ]
+}
